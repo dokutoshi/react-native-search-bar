@@ -79,7 +79,7 @@ PODS:
     - React-Core (= 0.60.5)
   - React-RCTWebSocket (0.60.5):
     - React-Core (= 0.60.5)
-  - RNSearchBar (3.5.0):
+  - RNSearchBar (3.5.1):
     - React
   - yoga (0.60.5.React)
 
@@ -108,7 +108,7 @@ DEPENDENCIES:
   - yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - boost-for-react-native
 
 EXTERNAL SOURCES:
@@ -179,9 +179,9 @@ SPEC CHECKSUMS:
   React-RCTText: b074d89033583d4f2eb5faf7ea2db3a13c7553a2
   React-RCTVibration: 2105b2e0e2b66a6408fc69a46c8a7fb5b2fdade0
   React-RCTWebSocket: cd932a16b7214898b6b7f788c8bddb3637246ac4
-  RNSearchBar: 30705c1b3a87baf8d8a7fcdf4b44cc8c4787308f
+  RNSearchBar: 9860431356b7d12a8449d2fddb2b5f3c78d1e99f
   yoga: 312528f5bbbba37b4dcea5ef00e8b4033fdd9411
 
 PODFILE CHECKSUM: b6fa9015d9f74a3cb426a9555de77b9e840f719a
 
-COCOAPODS: 1.7.3
+COCOAPODS: 1.10.1
